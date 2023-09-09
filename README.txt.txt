@@ -1,8 +1,15 @@
-To build the CSS application with electron , 
-
-re- instal the modules using npm install , 
-- only if you need to re build the ap pwith elextrom , 
 
 
----- Just take out the ClockNum2-Application folder  , 
-and use the exe inside , to use the clock. 
+THe Executable is downloadable in the compressed .zip folder.  
+
+and works as long as its kept in the same directory , where ever it is placed. 
+
+
+___________
+The electron building instructions are in the 
+cssclcokbasic-ELECTRONBUILD folder directory.   
+
+Always stay on time.  - Enjoy. 
+
+--- Also find my our other   .apk , and PWA downloadables , and other exe portable tools , 
+all from web pages ! 
